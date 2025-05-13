@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanWB01
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Databses/Neural Networks/Cryptography
+- 🌱 I’m currently learning Databases/Neural Networks/Cryptography
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...1 434 265 4431
 - 😄 Pronouns: He/Him
