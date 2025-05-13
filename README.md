@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EthanWB01
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning files/numpy/tkinter
+- 🌱 I’m currently learning Databses/Neural Networks/Cryptography
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
+- 📫 How to reach me...1 434 265 4431
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just uploading my projects to see my progress. None of this is an all-encompassing project.
 
